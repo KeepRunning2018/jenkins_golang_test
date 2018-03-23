@@ -1,0 +1,7 @@
+mode: set
+github.com/jenkins_golang_test/operator/operator.go:7.46,8.15 1 1
+github.com/jenkins_golang_test/operator/operator.go:12.5,12.22 1 1
+github.com/jenkins_golang_test/operator/operator.go:8.15,10.6 1 0
+github.com/jenkins_golang_test/operator/operator.go:15.41,18.2 1 0
+github.com/jenkins_golang_test/operator/operator.go:20.43,23.2 1 0
+github.com/jenkins_golang_test/operator/operator.go:25.46,28.2 1 0
