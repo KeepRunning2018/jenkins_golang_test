@@ -22,3 +22,5 @@ go tool cover -html=cover.out
 # go tool cover -func=cover.out
 
 ```
+
+## the secret must be match between github and jenkins
