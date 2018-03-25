@@ -15,3 +15,11 @@ func Test_Division_1(t *testing.T) {
 func Test_Division_2(t *testing.T) {
     t.Log("就是不通过")
 }
+
+func Test_Add(t * testing.T)  {
+    if i, e := Add(1, 2); i !=3 || e != nil {
+        t.Error("加法测试没通过")
+    } else {
+        t.Log("加法测试通过")
+    }
+}

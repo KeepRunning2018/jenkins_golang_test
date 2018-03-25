@@ -7,7 +7,7 @@ go test -v github.com/jenkins_golang_test/operator
 
 ## generate code coverage
 ```sh
- go test -v -coverprofile=cover.out github.com/jenkins_golang_test/operator
+go test -v -coverprofile=cover.out github.com/jenkins_golang_test/operator
 ```
 
 ## review the code coverage
