@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.11764706" branch-rate="0" version="" timestamp="1521949941300" lines-covered="2" lines-valid="17" branches-covered="0" branches-valid="0" complexity="0">
+	<sources>
+		<source>/usr/local/go/src</source>
+		<source>/Users/hongtaozhang/workspace/go_prj/src</source>
+	</sources>
+	<packages>
+		<package name="github.com/jenkins_golang_test/operator" line-rate="0.11764706" branch-rate="0" complexity="0">
+			<classes>
+				<class name="-" filename="github.com/jenkins_golang_test/operator/operator.go" line-rate="0.11764706" branch-rate="0" complexity="0">
+					<methods>
+						<method name="Division" signature="" line-rate="0.4" branch-rate="0" complexity="0">
+							<lines>
+								<line number="7" hits="1"></line>
+								<line number="8" hits="0"></line>
+								<line number="9" hits="0"></line>
+								<line number="10" hits="0"></line>
+								<line number="12" hits="1"></line>
+							</lines>
+						</method>
+						<method name="Add" signature="" line-rate="0" branch-rate="0" complexity="0">
+							<lines>
+								<line number="15" hits="0"></line>
+								<line number="16" hits="0"></line>
+								<line number="17" hits="0"></line>
+								<line number="18" hits="0"></line>
+							</lines>
+						</method>
+						<method name="minus" signature="" line-rate="0" branch-rate="0" complexity="0">
+							<lines>
+								<line number="20" hits="0"></line>
+								<line number="21" hits="0"></line>
+								<line number="22" hits="0"></line>
+								<line number="23" hits="0"></line>
+							</lines>
+						</method>
+						<method name="multiply" signature="" line-rate="0" branch-rate="0" complexity="0">
+							<lines>
+								<line number="25" hits="0"></line>
+								<line number="26" hits="0"></line>
+								<line number="27" hits="0"></line>
+								<line number="28" hits="0"></line>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="7" hits="1"></line>
+						<line number="8" hits="0"></line>
+						<line number="9" hits="0"></line>
+						<line number="10" hits="0"></line>
+						<line number="12" hits="1"></line>
+						<line number="15" hits="0"></line>
+						<line number="16" hits="0"></line>
+						<line number="17" hits="0"></line>
+						<line number="18" hits="0"></line>
+						<line number="20" hits="0"></line>
+						<line number="21" hits="0"></line>
+						<line number="22" hits="0"></line>
+						<line number="23" hits="0"></line>
+						<line number="25" hits="0"></line>
+						<line number="26" hits="0"></line>
+						<line number="27" hits="0"></line>
+						<line number="28" hits="0"></line>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
