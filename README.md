@@ -23,4 +23,4 @@ go tool cover -html=cover.out
 
 ```
 
-## send the pr
+## the secret must be match between github and jenkins
