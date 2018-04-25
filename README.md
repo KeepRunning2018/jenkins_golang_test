@@ -26,3 +26,5 @@ go tool cover -html=cover.out
 ## the secret must be match between github and jenkins
 
 ## test https
+
+## test jira cloud
