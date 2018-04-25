@@ -23,3 +23,7 @@ func Test_Add(t * testing.T)  {
         t.Log("加法测试通过")
     }
 }
+
+func Test_Add_1(t * testing.T)  {
+    t.Log("加法测试不通过")    
+}
